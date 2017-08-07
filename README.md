@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-Myfirst lot of changes to commit
+My first lot of changes to commit
